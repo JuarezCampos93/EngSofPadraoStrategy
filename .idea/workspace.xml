@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a8d4136-3ae8-4b13-9420-7163f0dd71d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ImpostoPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ImpostoPR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MicroEmpresario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MicroEmpresario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MicroEmpresarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MicroEmpresarioTest.java" afterDir="false" />
+    <list default="true" id="9a8d4136-3ae8-4b13-9420-7163f0dd71d5" name="Changes" comment="ERROJDKATT">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrama.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Diagrama.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +27,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MicroEmpresarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EngSofPadraoStrategy" />
@@ -63,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701170773550</updated>
     </task>
+    <task id="LOCAL-00001" summary="ERROJDKATT">
+      <created>1701781364990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701781364990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ERROJDKATT" />
+    <option name="LAST_COMMIT_MESSAGE" value="ERROJDKATT" />
   </component>
 </project>
