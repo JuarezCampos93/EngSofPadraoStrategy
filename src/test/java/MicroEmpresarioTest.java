@@ -11,9 +11,9 @@ class EmpresaTest {
     }
 
     @Test
-    void deveCalcularImpostoSP(){
+    void deveCalcularImpostoPR(){
         Empresa empresa = new Empresa();
-        empresa.impostoSP(100f);
+        empresa.impostoPR(100f);
         assertEquals(115.0f, empresa.getImposto());
     }
 }
