@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class EmpresaTest {
+class MicroEmpresarioTest {
     @Test
     void deveCalcularImpostoMG(){
         Empresa empresa = new Empresa();
