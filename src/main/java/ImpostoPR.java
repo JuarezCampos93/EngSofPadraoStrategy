@@ -1,6 +1,6 @@
-public class ImpostoSP implements Imposto {
+public class ImpostoPR implements Imposto {
     @Override
     public float calcular(float value) {
-        return value * 1.15f;
+        return value * 1.4f;
     }
 }

@@ -2,18 +2,18 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class EmpresaTest {
+class MicroEmpresarioTest {
     @Test
     void deveCalcularImpostoMG(){
-        Empresa empresa = new Empresa();
-        empresa.impostoMG(100f);
-        assertEquals(110.0f, empresa.getImposto());
+        MicroEmpresario microEmpresario = new MicroEmpresario();
+        microEmpresario.impostoMG(100.0f);
+        assertEquals(110.0f, microEmpresario.getImposto());
     }
 
     @Test
-    void deveCalcularImpostoSP(){
-        Empresa empresa = new Empresa();
-        empresa.impostoSP(100f);
-        assertEquals(115.0f, empresa.getImposto());
+    void deveCalcularImpostoPR(){
+        MicroEmpresario microEmpresario = new MicroEmpresario();
+        microEmpresario.impostoPR(100f);
+        assertEquals(140.0f, microEmpresario.getImposto());
     }
 }

@@ -1,4 +1,4 @@
-public class Empresa {
+public class MicroEmpresario {
 
     private float imposto;
 
@@ -11,8 +11,8 @@ public class Empresa {
         this.imposto = governo.calcularImposto(new ImpostoMG());
     }
 
-    public void impostoSP(float lucro){
+    public void impostoPR(float lucro){
         Governo governo = new Governo(lucro);
-        this.imposto = governo.calcularImposto(new ImpostoSP());
+        this.imposto = governo.calcularImposto(new ImpostoPR());
     }
 }
